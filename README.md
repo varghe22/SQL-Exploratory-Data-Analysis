@@ -4,12 +4,12 @@
 
 This project uses Microsoft SQL Server to explore a retail sales database and investigate customer demographics, product categories, sales performance, and purchasing behavior.
 
-The analysis examines database structure, summarizes key business metrics, compares revenue across customers and product categories, and identifies high- and low-revenue products.
+The analysis takes a look at database structure, summarizes key business metrics, compares revenue across customers and product categories, and identifies high- and low-revenue products.
 
 ## Tools & Technologies
 
 - Microsoft SQL Server
-- T-SQL
+- SQL Server Management Studio
 - SQL Server aggregate functions
 - Joins and subqueries
 - Window functions
@@ -63,4 +63,4 @@ The analysis examines database structure, summarizes key business metrics, compa
 
 ## Project Acknowledgment
 
-If applicable, acknowledge any tutorial, course, or external resource that informed the project.
+This project was created with the help of the Data With Baraa SQL Exploratory Data Analysis (EDA) Project tutorial. The project gave me the chance to practice SQL exploratory analytics and become more familiar with SQL Server Management Studio. 

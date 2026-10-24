@@ -56,11 +56,6 @@ The analysis takes a look at database structure, summarizes key business metrics
 - Ranking using the `RANK()` window function
 - Database metadata exploration using `INFORMATION_SCHEMA`
 
-## Project Structure
-
-- `scripts/exploratory_data_analysis.sql` — SQL queries used throughout the analysis.
-- `README.md` — Project overview, analysis sections, and documentation.
-
 ## Project Acknowledgment
 
 This project was created with the help of the Data With Baraa SQL Exploratory Data Analysis (EDA) Project tutorial. The project gave me the chance to practice SQL exploratory analytics and become more familiar with SQL Server Management Studio. 
